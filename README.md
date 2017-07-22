@@ -25,9 +25,9 @@ To apply the shaders to the volume, select all the material files and change the
 4.	Create a 360 (panorama) movie
 Unity is a very broad platform and can be used for various applications. Creating a 360 movie is an example of a simple method to display the OCT volumes in “virtual reality”, which includes head tracking and stereoscopic rendering. The benefit of recording a 360 video is that it can be displayed on almost any phone + cardboard. Here is a very good tutorial for creating a 360 panorama movie: https://www.youtube.com/watch?v=w-umzg_iLoY
 Another option is to build the Unity project into an Android or iOS application.
-5.	Once you’ve creates the 360 movie, upload it to YouTube. After it’s uploaded, open your movie from a smart-phone using the YouTube app. The movie can be displayed as a regular or stereoscopic 360 movie, both include orientation tracking, so that you can move around the volumes and look at them from different angles. In order to view it on a HMD (such as cardboard), it should be stereo-rendered by clicking the cardboard icon on the YouTube app (https://support.google.com/youtube/answer/6239930?hl=en).
+5.	Once you’ve creates the 360 movie, upload it to YouTube. After it’s uploaded, open your movie from a smart-phone using the YouTube app. The movie can be displayed as a regular or stereoscopic 360 movie, both include orientation tracking, so that you can move around the volumes and look at them from different angles. In order to view it on a HMD (such as cardboard), the movie should be stereo-rendered by clicking the cardboard icon on the YouTube app (https://support.google.com/youtube/answer/6239930?hl=en).
 
-#### A stero-rendering of an OCT eperiment
+#### A stero-rendering of an OCT experiment
 This image is a cell-phone screen-shot in YouTube's Cardboard mode.
 ![A stero-rendering of an OCT eperiment](https://user-images.githubusercontent.com/19598320/28488982-f488cad6-6e6b-11e7-8582-7887fbb43971.png)
 
